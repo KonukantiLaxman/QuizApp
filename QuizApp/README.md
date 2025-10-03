@@ -93,35 +93,6 @@ Q2) Which collection allows duplicates and maintains insertion order?
 ## Final Score: 2/2 (100.0%)
 --------------------------------------
 
-## 🧩 OOP Concepts Used
-
-1.Encapsulation
-
-Question class hides its data (prompt, options, correct answer) behind getters.
-
-2.Abstraction
-
-Question abstracts a real-world quiz question.
-
-Quiz abstracts quiz management (asking, scoring, summary).
-
-3.Composition
-
-Quiz has a list of Question objects.
-
-4.Polymorphism (demonstrated indirectly)
-
-Enhanced for-loops & Iterators (Iterable interface) allow us to iterate different collection types uniformly.
-
-5.Exception Handling
-
-Input validation with try-catch for invalid number inputs.
-
-6.Collections Framework
-
-ArrayList to store questions and answers.
-
-Collections.shuffle() to randomize questions.
 
 ## 📝 Assumptions
 
